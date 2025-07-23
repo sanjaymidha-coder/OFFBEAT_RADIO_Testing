@@ -3,7 +3,7 @@
 const SITE_URL = process.env.NEXT_PUBLIC_URL // Update with your site URL if needed
 
 module.exports = {
-	siteUrl: 'https://offbeat-radio.vercel.app',
+	siteUrl: 'https://your-production-domain.com', // <-- Replace with your actual domain
 	generateRobotsTxt: true,
 	exclude: [
 		'/submission',
